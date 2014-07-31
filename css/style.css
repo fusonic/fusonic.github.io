@@ -1,0 +1,15 @@
+#logo
+{
+    margin-bottom: 20px;
+}
+
+#project-menu
+{
+    display: block;
+    width: 100%;
+}
+
+.dropdown-menu > li > a
+{
+    white-space: normal;
+}
